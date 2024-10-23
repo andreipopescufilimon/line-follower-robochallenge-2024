@@ -1,6 +1,6 @@
-# 2024 Line Follower Classic Category
-# 2024 Line Follower Turbo Category
-# 2024 Line Follower Enhanced Category
+## 2024 Line Follower Classic Category
+## 2024 Line Follower Turbo Category
+## 2024 Line Follower Enhanced Category
 
 ## Key Highlights
 
