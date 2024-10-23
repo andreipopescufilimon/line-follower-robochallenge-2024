@@ -1,4 +1,6 @@
-# 2024 Line Follower Category
+# 2024 Line Follower Classic Category
+# 2024 Line Follower Turbo Category
+# 2024 Line Follower Enhanced Category
 
 ## Key Highlights
 
@@ -12,11 +14,10 @@
 - 8 to 16 sensors with multiplexer ✔️
 - Distance sensor on front for enhanced category ✔️
 - Front Adapter PCB for distance sensor, multiplexer and sensors => 9 cable output to main board ✔️
-- Add EDF and aero design for downforce ❌
-- New faster motors ❌
-- Main Board PCB ❌
-- Gyro system for turning ✔️
-- Advanced Algorithm ❌
+- Add EDF and aero design for downforce ✔️
+- New faster motors ✔️
+- Main Board PCB ✔️
+- Advanced Algorithm ✔️
 
 ## 🚗🌟 **Let the robotics adventure continue! See you in 2024 competitions**
 
