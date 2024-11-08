@@ -3,6 +3,7 @@
 ✨ This year’s RoboChallenge 2024 was an unforgettable experience, filled with adrenaline, innovation, and intense competition! Representing the **JSumo team**, **JSUMO_LF** excelled in three categories, showcasing incredible adaptability and performance.
 
 ![JSUMO_LF robot](images/img2.jpg)
+[🎥 **View Video**](images/vid1.mp4) – Watch JSUMO_LF in action during the competition
 
 ## Key Highlights
 - **Line Follower Enhanced**: 6th out of 41 – my strongest finish yet!
@@ -14,7 +15,7 @@ Big thanks to the incredible [@jsumocom](https://www.instagram.com/jsumocom/) te
 ## Repository Contents
 - 🤖 **Source Code**: Explore the well-documented codebase behind JSUMO_LF's 2024 performance.
 - 📋 **Documentation**: Dive into additional details to understand the architecture and design choices.
-- 📹 **Media**: See JSUMO_LF in action through photos and videos from RoboChallenge 2024, courtesy of [@andreip851](https://www.instagram.com/andreip851/).
+- 📹 **Media**: See JSUMO_LF in action through photos and videos from RoboChallenge 2024, in /images/ folder and also on my instagram [@andreip851](https://www.instagram.com/andreip851/).
 
 ## Components Used
 - **Microcontroller**: JSumo XMotion
