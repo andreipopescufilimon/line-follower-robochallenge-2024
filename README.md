@@ -39,7 +39,7 @@ Big thanks to the incredible [@jsumocom](https://www.instagram.com/jsumocom/) te
 
 ## Sponsors
 A special thanks to **JSumo**, for their invaluable support!
-![JSumo Logo](images/logo/jsumologo.jpg)
+![JSumo Logo](images/logo/jsumologo.png)
 
 ## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/andreipopescufilimon/line-follower-2024/blob/main/LICENSE) file for details.
