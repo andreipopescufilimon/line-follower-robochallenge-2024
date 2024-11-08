@@ -37,5 +37,9 @@ Big thanks to the incredible [@jsumocom](https://www.instagram.com/jsumocom/) te
 
 ## 🚗🌟 **The robotics adventure continues! Looking forward to 2025’s competitions.**
 
+## Sponsors
+A special thanks to **JSumo**, for their invaluable support!
+![JSumo Logo](images/logo/jsumologo.jpg)
+
 ## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/andreipopescufilimon/line-follower-2024/blob/main/LICENSE) file for details.
