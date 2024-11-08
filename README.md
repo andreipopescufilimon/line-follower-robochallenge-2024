@@ -2,8 +2,8 @@
 
 ✨ This year’s RoboChallenge 2024 was an unforgettable experience, filled with adrenaline, innovation, and intense competition! Representing the **JSumo team**, **JSUMO_LF** excelled in three categories, showcasing incredible adaptability and performance.
 
-![JSUMO_LF robot](images/img2.jpg)
-[🎥 **View Video**](images/) – Watch JSUMO_LF in action during the competition
+![JSUMO_LF robot](media/img2.jpg)
+[🎥 **View Video**](media/) – Watch JSUMO_LF in action during the competition
 
 ## Key Highlights
 - **Line Follower Enhanced**: 6th out of 41 – my strongest finish yet!
@@ -15,7 +15,7 @@ Big thanks to the incredible [@jsumocom](https://www.instagram.com/jsumocom/) te
 ## Repository Contents
 - 🤖 **Source Code**: Explore the well-documented codebase behind JSUMO_LF's 2024 performance.
 - 📋 **Documentation**: Dive into additional details to understand the architecture and design choices.
-- 📹 **Media**: See JSUMO_LF in action through photos and videos from RoboChallenge 2024, in [🎥 **View Media**](images/) folder and also on my instagram [@andreip851](https://www.instagram.com/andreip851/).
+- 📹 **Media**: See JSUMO_LF in action through photos and videos from RoboChallenge 2024, in [🎥 **View Media**](media/) folder and also on my instagram [@andreip851](https://www.instagram.com/andreip851/).
 
 ## Components Used
 - **Microcontroller**: JSumo XMotion
@@ -39,7 +39,7 @@ Big thanks to the incredible [@jsumocom](https://www.instagram.com/jsumocom/) te
 
 ## Sponsors
 A special thanks to **JSumo**, for their invaluable support!
-![JSumo Logo](images/logo/jsumologo.png)
+![JSumo Logo](media/logo/jsumologo.png)
 
 ## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/andreipopescufilimon/line-follower-2024/blob/main/LICENSE) file for details.
