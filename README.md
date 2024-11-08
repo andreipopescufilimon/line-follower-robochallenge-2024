@@ -2,6 +2,8 @@
 
 ✨ This year’s RoboChallenge 2024 was an unforgettable experience, filled with adrenaline, innovation, and intense competition! Representing the **JSumo team**, **JSUMO_LF** excelled in three categories, showcasing incredible adaptability and performance.
 
+![JSUMO_LF robot](images/img2.jpg)
+
 ## Key Highlights
 - **Line Follower Enhanced**: 6th out of 41 – my strongest finish yet!
 - **Line Follower Turbo**: 20th out of 56 – pushing the limits with speed and precision!
